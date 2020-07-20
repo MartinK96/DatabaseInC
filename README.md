@@ -1,5 +1,5 @@
 # DatabaseInC
-Creating programs in C and C++ to manage a small database consisting of operational amplifiers
+Creating programs in C++ to manage a small database consisting of operational amplifiers. Two approaches will be used to implement the database, a struvtured approarch and an object orriented approach.
 
-Aim of the task is to become familar with C and C++ operations, including file input/output, data structures, the passing of arguments to functions and the manipulation of data in arrays
+Aim of the task is to become familar with C++ operations, including file input/output, data structures, the passing of arguments to functions and the manipulation of data in arrays
 
